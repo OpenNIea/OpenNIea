@@ -1,4 +1,14 @@
-## Hi there 👋
+
+
+# Hi, I'm Alexandros 👋
+
+**Full Stack Engineer** building scalable SaaS platforms and PMS/booking systems.
+
+I specialize in **Laravel, Node.js, React/Vue, Docker, Redis, AWS and SQL**.  
+I enjoy modernizing legacy systems and delivering clean, maintainable, production-ready software.
+
+### 🔧 Tech
+Laravel · Node.js · React · Vue · MySQL/PostgreSQL · Redis · Docker · Nginx · AWS · CI/CD
 
 <!--
 **OpenNIea/OpenNIea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
